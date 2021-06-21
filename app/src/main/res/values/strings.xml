@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Pachik</string>
+    <string name="text_do_not_have_an_account">Հաշիվ չունե՞ք: <b>Գրանցվել</b></string>
+    <string name="text_email">Էլ․ հասցե</string>
+    <string name="text_password">Գաղտնաբառ</string>
+    <string name="text_sign_in">Մուտք գործել</string>
+    <string name="text_button_sign_in">Մուտք</string>
+    <string name="text_forgot_your_password">Մոռացե՞լ եք գաղտնաբառը</string>
+    <string name="gmail_logo">gmail_logo</string>
+    <string name="twitter_logo">twitter_logo</string>
+    <string name="facebook_logo">facebook_logo</string>
+    <string name="logo_project">logo_project</string>
+</resources>

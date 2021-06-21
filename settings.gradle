@@ -1,0 +1,2 @@
+rootProject.name = "Pachik_Live"
+include ':app'
